@@ -1,0 +1,12 @@
+.env
+.env.*
+__pycache__/
+*.py[cod]
+.venv/
+envs/
+downloads/
+.DS_Store
+Thumbs.db
+bootstrap-report.json
+*.pending.json
+*.asr-pending.json

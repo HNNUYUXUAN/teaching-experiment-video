@@ -1,0 +1,38 @@
+# Local settings only. Fill in this file locally; never paste the key into chat.
+DASHSCOPE_API_KEY=
+# Choose the region matching your key: cn-beijing or ap-southeast-1.
+BAILIAN_REGION=cn-beijing
+# Optional dedicated workspace base URL. Leave blank to use the regional shared URL.
+BAILIAN_BASE_URL=
+# An endpoint is an API address, not an additional secret.
+TTS_ENDPOINT=
+ASR_ENDPOINT=
+IMAGE_ENDPOINT=
+TTS_MODEL=qwen-audio-3.0-tts-flash
+TTS_VOICE=longanfengyue
+TTS_SAMPLE_RATE=48000
+TTS_RATE=0.95
+TTS_VOLUME=55
+TTS_PITCH=1.0
+TTS_SEED=20261025
+TTS_INSTRUCTION=自然清晰、语速适中、停顿合理的普通话旁白，忠实朗读文本，不增删内容。
+ASR_MODEL=qwen-audio-3.1-asr-flash
+ASR_MAX_SECONDS=60
+ASR_MAX_BYTES=9500000
+HTTP_TIMEOUT_SECONDS=300
+SUBTITLE_MAX_CHARS=26
+SUBTITLE_MAX_MS=5500
+SUBTITLE_MIN_MS=1200
+SUBTITLE_GAP_MS=80
+# auto, agent, chatgpt-browser, bailian, manual
+IMAGE_PROVIDER=auto
+IMAGE_MODEL=qwen-image-2.0-pro
+IMAGE_SIZE=1664*928
+IMAGE_PROMPT_EXTEND=false
+# auto, chrome, edge. Set this to the user's explicit browser preference.
+BROWSER=auto
+# Optional user-selected paths; leave blank if not known.
+CHROME_PATH=
+EDGE_PATH=
+JY_APPS_ROOT=
+JY_PROJECTS_ROOT=

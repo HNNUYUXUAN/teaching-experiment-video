@@ -1,0 +1,17 @@
+# Teaching Experiment Video
+
+An agent skill for evidence-based teaching videos from real experiment footage.
+
+- Entry point: SKILL.md
+- First-run setup: references/first-run.md
+- Host capabilities and browser connection: references/agent-adapter.md
+- Production stages and state: references/execution.md
+- Image routes: references/images.md
+- Audio and subtitles: references/audio.md
+- Editable drafts: references/draft.md
+- Delivery: references/delivery.md
+- Validation scope: docs/validation.md
+- Public portfolio: https://www.douyin.com/collection/7691177993527363599/1
+- Author: https://www.yuxuan.wiki/
+
+Read the relevant reference for the active stage. Preserve the user's project and current progress. Runtime configuration is created locally by bootstrap.
