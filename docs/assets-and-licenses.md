@@ -10,7 +10,7 @@
 
 ## 展示插图
 
-`images/cover.png`、`images/portfolio.png`、`images/additive-color.png` 于 2026-10-25 使用 ChatGPT 图像生成功能创建，按教学文案核对后保存原始下载文件。三图用于说明工作流程与作品主题，均为生成的概念或教学示意。插图可随本项目介绍与文档引用，建议注明本仓库链接及其生成属性。
+`images/cover.png`、`images/portfolio.png`、`images/additive-color.png`、`images/workflow.png` 于 2026-10-25 使用 ChatGPT 图像生成功能创建，按教学文案核对后保存原始下载文件。四图用于说明工作流程与作品主题，均为生成的概念或教学示意。插图可随本项目介绍与文档引用，建议注明本仓库链接及其生成属性。
 
 原始下载尺寸为 1672 × 941。完整图像按比例展示。
 
