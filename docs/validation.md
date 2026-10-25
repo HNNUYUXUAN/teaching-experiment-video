@@ -19,7 +19,7 @@
 & ./scripts/run.ps1 -Script test_portable
 ```
 
-也可在装有 `requests`、`python-dotenv`、`Pillow` 的 Python 3.11 环境中运行：
+也可在装有 `requests`、`python-dotenv`、`Pillow`，且 PATH 中可以运行 `ffmpeg` 的 Python 3.11 环境中运行：
 
 ```text
 python -B -m unittest discover -s scripts -p "test_*.py" -v
